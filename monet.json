@@ -8,7 +8,7 @@
       "name": "签名文件",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/test.zip",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/test.zip"
+        "https://raw.196104.xyz/test.zip"
       ],
       "type": "zip"
     }
@@ -20,7 +20,7 @@
       "description": "国内版",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet/Via_7.0.0_Moneted.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet/Via_7.0.0_Moneted.apk"
+        "https://raw.196104.xyz/Monet/Via_7.0.0_Moneted.apk"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "description": "国内版+无莫奈图标",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet/Via_7.0.0_Moneted_Noicon.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet/Via_7.0.0_Moneted_Noicon.apk"
+        "https://raw.196104.xyz/Monet/Via_7.0.0_Moneted_Noicon.apk"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "description": "国内版+打包优化",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet/Via_7.0.0_Moneted_Optimize.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet/Via_7.0.0_Moneted_Optimize.apk"
+        "https://raw.196104.xyz/Monet/Via_7.0.0_Moneted_Optimize.apk"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "description": "国内版+无莫奈图标+打包优化",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet/Via_7.0.0_Moneted_Noicon_Optimize.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet/Via_7.0.0_Moneted_Noicon_Optimize.apk"
+        "https://raw.196104.xyz/Monet/Via_7.0.0_Moneted_Noicon_Optimize.apk"
       ]
     },
     {
@@ -56,7 +56,7 @@
       "description": "国际版",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet_GP/Via_7.0.0_GP_Moneted.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet_GP/Via_7.0.0_GP_Moneted.apk"
+        "https://raw.196104.xyz/Monet_GP/Via_7.0.0_GP_Moneted.apk"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "description": "国际版+无莫奈图标",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet_GP/Via_7.0.0_GP_Moneted_Noicon.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet_GP/Via_7.0.0_GP_Moneted_Noicon.apk"
+        "https://raw.196104.xyz/Monet_GP/Via_7.0.0_GP_Moneted_Noicon.apk"
       ]
     },
     {
@@ -74,7 +74,7 @@
       "description": "国际版+打包优化",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet_GP/Via_7.0.0_GP_Moneted_Optimize.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet_GP/Via_7.0.0_GP_Moneted_Optimize.apk"
+        "https://raw.196104.xyz/Monet_GP/Via_7.0.0_GP_Moneted_Optimize.apk"
       ]
     },
     {
@@ -83,7 +83,7 @@
       "description": "国际版+无莫奈图标+打包优化",
       "sources": [
         "https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/Monet_GP/Via_7.0.0_GP_Moneted_Noicon_Optimize.apk",
-        "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN/Monet_GP/Via_7.0.0_GP_Moneted_Noicon_Optimize.apk"
+        "https://raw.196104.xyz/Monet_GP/Via_7.0.0_GP_Moneted_Noicon_Optimize.apk"
       ]
     }
   ],
