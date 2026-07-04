@@ -1,7 +1,4 @@
 {
-  "_comment": "BetterVia 1K Stars 庆祝弹窗 - 部署到服务器即可触发",
-  "_comment": "将本文件内容替换 announcement.json 的部署版本",
-
   "id": "celebration_1k_stars",
   "displayMode": "celebration",
 
@@ -12,15 +9,15 @@
   },
 
   "dialogSubtitle": {
-    "zh-CN": "BetterVia 在 GitHub 上突破了 1K 星标！",
-    "zh-TW": "BetterVia 在 GitHub 上突破了 1K 星標！",
+    "zh-CN": "BetterVia 在 GitHub 上收获了第 1000 颗 Star",
+    "zh-TW": "BetterVia 在 GitHub 上收穫了第 1000 顆 Star",
     "en": "BetterVia has reached 1,000 stars on GitHub!"
   },
 
   "dialogContent": {
-    "zh-CN": "感谢每一位使用 BetterVia 的用户\n你们的支持是我们持续开发的动力\n\n从第一个版本到今天\n每一颗 Star 都是对我们的认可\n\n希望 BetterVia 能让你的 Via 更好\n让我们继续出发！ 🚀",
-    "zh-TW": "感謝每一位使用 BetterVia 的用戶\n你們的支持是我們持續開發的動力\n\n從第一個版本到今天\n每一顆 Star 都是對我們的認可\n\n希望 BetterVia 能讓你的 Via 更好\n讓我們繼續出發！ 🚀",
-    "en": "Thank you to every BetterVia user!\nYour support keeps us going.\n\nFrom the very first release to today,\nevery star is a vote of confidence.\n\nHope BetterVia makes your Via better.\nLet's keep moving forward! 🚀"
+    "zh-CN": "感谢每一位默默支持的朋友。\n\n从最初的一行代码，到今天的一千颗 Star，\n一路走来，皆因有你。\n\n古人云：「长风破浪会有时」。\n而我们更愿相信，\n真正值得抵达的诗与远方，\n都是无数微小星火汇聚而成。\n\n愿 BetterVia 继续陪伴你的每一次浏览，让你的 Via 真正变得更好。\n\n前路尚远，我们仍愿步履不停。\n道阻且长，所幸有你并肩同行。",
+    "zh-TW": "感謝每一位默默支持的朋友。\n\n從最初的一行程式碼，到今天的一千顆星，\n一路走來，皆因有你。\n\n古人云：「長風破浪會有時」。\n而我們更願相信，\n真正值得抵達的詩與遠方，\n都是無數微小星火匯聚而成。\n\n願 BetterVia 繼續陪伴你每一次的瀏覽，讓你的 Via 真正變得更好。\n\n前路尚遠，我們仍願步履不停。\n道阻且長，所幸有你並肩同行。",
+    "en": "To every silent supporter, thank you true.\n\nFrom the very first line of code we wrote,\nTo a thousand stars—today's bright note—\nThis journey's light is all from you.\n\nAs old verse says: 「The wind and waves shall break」,\nBut we believe, for our own sake,\nThat every shore worth sailing toward\nIs lit by sparks that we afford—\nSmall fires gathered, joined as one.\n\nMay BetterVia still walk with you,\nThrough every page your eyes run through—\nAnd make your Via better still.\n\nThe road goes on; we won't stand still.\nLong and hard the path may be,\nYet lighter for your company."
   },
 
   "positiveButton": {
@@ -37,9 +34,9 @@
   "negativeButton": {
     "enabled": true,
     "text": {
-      "zh-CN": "我已知晓 ✨",
-      "zh-TW": "我已知曉 ✨",
-      "en": "Got it ✨"
+      "zh-CN": "继续浏览",
+      "zh-TW": "繼續瀏覽",
+      "en": "Continue"
     },
     "action": "dismiss"
   }
