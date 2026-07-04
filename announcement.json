@@ -23,9 +23,9 @@
   "positiveButton": {
     "enabled": true,
     "text": {
-      "zh-CN": "⭐ Go Star",
-      "zh-TW": "⭐ Go Star",
-      "en": "⭐ Go Star"
+      "zh-CN": "Go Star ⭐",
+      "zh-TW": "Go Star ⭐",
+      "en": "Go Star ⭐"
     },
     "action": "open_url",
     "url": "https://github.com/JiGuroLGC/BetterVia"
