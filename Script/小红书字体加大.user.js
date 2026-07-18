@@ -27,5 +27,5 @@
     style.innerHTML = css;
     head.appendChild(style);
 }
-    addGlobalStyle(".code {font-size: 20px !important}");
+    addGlobalStyle(".main-content.with-side-bar {font-size: 20px !important}");
 })();
