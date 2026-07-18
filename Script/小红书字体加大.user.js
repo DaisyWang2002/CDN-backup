@@ -14,18 +14,25 @@
 
 // ==/UserScript==
 
-(function() {
-    'use strict';
+(() => {
+  "use strict";
 
-    // Your code here...
-    function addGlobalStyle(css) {
-    var head, style;
-    head = document.getElementsByTagName('head')[0];
-    if (!head) { return; }
-    style = document.createElement('style');
-    style.type = 'text/css';
-    style.innerHTML = css;
-    head.appendChild(style);
-}
-    addGlobalStyle(".main-content.with-side-bar {font-size: 20px !important}");
+  const STYLE_ID = "tm-tweakers-fontsize-140";
+  if (document.getElementById(STYLE_ID)) return;
+
+  const style = document.createElement("style");
+  style.id = STYLE_ID;
+  style.textContent = `
+    /* Scale the site typographic base */
+    html { font-size: 140% !important; }
+  `;
+
+  // Prefer <head>, but fall back if it isn't available yet.
+  (document.head || document.documentElement).appendChild(style);
 })();
+
+
+
+
+
+
