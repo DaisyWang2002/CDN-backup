@@ -7,8 +7,6 @@
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/584207/Responsive%20Dumb%20Browser%20Viewport.user.js
-// @updateURL https://update.greasyfork.org/scripts/584207/Responsive%20Dumb%20Browser%20Viewport.meta.js
 // ==/UserScript==
 
 (function () {
@@ -26,7 +24,7 @@
     Width and height are capped at 500px, but shrink on small screens.
     Lower these if the box still feels too large on mobile.
   */
-  const MOBILE_BOX_WIDTH = "78vw";
+  const MOBILE_BOX_WIDTH = "75vw";
   const MOBILE_BOX_HEIGHT = "78vh";
 
   /*
