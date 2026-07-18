@@ -17,7 +17,7 @@
   /*
     Main settings
   */
-  const MAX_BOX_WIDTH = "800px";
+  const MAX_BOX_WIDTH = "600px";
   const MAX_BOX_HEIGHT = "600px";
 
   /*
@@ -26,7 +26,7 @@
     Width and height are capped at 500px, but shrink on small screens.
     Lower these if the box still feels too large on mobile.
   */
-  const MOBILE_BOX_WIDTH = "75vw";
+  const MOBILE_BOX_WIDTH = "78vw";
   const MOBILE_BOX_HEIGHT = "78vh";
 
   /*
