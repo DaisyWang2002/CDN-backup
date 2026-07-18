@@ -17,8 +17,8 @@
   /*
     Main settings
   */
-  const MAX_BOX_WIDTH = "1000px";
-  const MAX_BOX_HEIGHT = "2000px";
+  const MAX_BOX_WIDTH = "1600px";
+  const MAX_BOX_HEIGHT = "3200px";
 
   /*
     Mobile fit settings
@@ -37,7 +37,7 @@
     0.8 = much smaller
     1.1 = larger, not recommended on mobile
   */
-  const PAGE_SCALE = 1;
+  const PAGE_SCALE = 1.25;
 
   /*
     Delay settings
