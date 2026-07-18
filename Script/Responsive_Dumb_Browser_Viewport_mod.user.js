@@ -17,8 +17,8 @@
   /*
     Main settings
   */
-  const MAX_BOX_WIDTH = "1200px";
-  const MAX_BOX_HEIGHT = "2400px";
+  const MAX_BOX_WIDTH = "1000px";
+  const MAX_BOX_HEIGHT = "2000px";
 
   /*
     Mobile fit settings
