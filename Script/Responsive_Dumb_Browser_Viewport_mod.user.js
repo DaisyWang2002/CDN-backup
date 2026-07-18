@@ -24,7 +24,7 @@
     Width and height are capped at 500px, but shrink on small screens.
     Lower these if the box still feels too large on mobile.
   */
-  const MOBILE_BOX_WIDTH = "75vw";
+  const MOBILE_BOX_WIDTH = "70vw";
   const MOBILE_BOX_HEIGHT = "78vh";
 
   /*
