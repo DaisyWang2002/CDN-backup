@@ -12,27 +12,22 @@
 // @license MIT
 
 
+
 // ==/UserScript==
 
-(() => {
-  "use strict";
+(function() {
+  'use strict';
 
-  const STYLE_ID = "tm-tweakers-fontsize-140";
-  if (document.getElementById(STYLE_ID)) return;
+  function addGlobalStyle(css) {
+    var head = document.getElementsByTagName('head')[0]
+    var style = document.createElement('style')
+    style.type = 'text/css'
+    style.innerHTML = css
+    head.appendChild(style)
+  }
 
-  const style = document.createElement("style");
-  style.id = STYLE_ID;
-  style.textContent = `
-    /* Scale the site typographic base */
-    html .note-scroller .footer { font-size: 140% !important; }
-  `;
-
-  // Prefer <head>, but fall back if it isn't available yet.
-  (document.head || document.documentElement).appendChild(style);
+  addGlobalStyle('.note-scroller .footer { font-size: 200% }');
 })();
-
-
-
 
 
 
