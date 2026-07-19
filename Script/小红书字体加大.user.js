@@ -24,7 +24,7 @@
   style.id = STYLE_ID;
   style.textContent = `
     /* Scale the site typographic base */
-    html { font-size: 140% !important; }
+    html .note-scroller .footer { font-size: 140% !important; }
   `;
 
   // Prefer <head>, but fall back if it isn't available yet.
