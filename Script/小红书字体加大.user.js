@@ -26,8 +26,21 @@
     head.appendChild(style)
   }
 
-  addGlobalStyle('.note-scroller .footer { font-size: 200% }');
+  addGlobalStyle(' .right , .desc , .info , .title , .author-wrapper , .date , .total   { font-size: 20px !important; }');
+  addGlobalStyle(".channel-scroll-container { font-size: 1.5rem !important; }");
 })();
 
-
-
+/*
+.right , 
+ .content , 
+ .main-container
+ , .desc , .right , .info
+ .title
+ .author-wrapper
+ .channel-scroll-container
+ .date
+ .total
+ { font-size: 20px !important; }
+ { font-size: 125% !important; }
+ { font-size: 3rem !important; }
+*/
